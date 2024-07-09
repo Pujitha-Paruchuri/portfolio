@@ -1,0 +1,19 @@
+.content {
+
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  padding-top: 130px;
+  align-items: center;
+  color: aqua;
+  font-size: 50px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.linkcontent {
+  text-align: center;
+  font-size: xx-large;
+}
